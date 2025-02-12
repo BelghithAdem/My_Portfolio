@@ -2,20 +2,31 @@
 # [Portfolio Angular](shubhamkr.web.app)
 
 
+<<<<<<< HEAD
 Portfolio Angular built in Angular + TypeScript + Tailwind CSS 
+=======
+>>>>>>> 99016c95a33098ad0d3ff4e70adec0212e6665d6
 
 [![GitHub forks](https://img.shields.io/github/forks/shubham0809200/portfolio-angular?style=for-the-badge)](https://github.com/shubham0809200/portfolio-angular/network)
 [![View Demo](https://img.shields.io/static/v1?label=&message=View%20Demo&style=for-the-badge&color=black&logo=angular)](https://shubhamkr.web.app)
 
 ## Introduction
 
+<<<<<<< HEAD
 Portfolio Angular is built using Angular and Tailwind CSS for a modern design and rapid development. TypeScript is utilized for code clarity and safety. Additionally. The result is a dynamic and functional portfolio website that showcases the developer's skills and experience.
+=======
+Portfolio Angular is built using Angular and Tailwind CSS for a modern design and rapid development. TypeScript is utilized for code clarity and safety. Additionally, . The result is a dynamic and functional portfolio website that showcases the developer's skills and experience.
+>>>>>>> 99016c95a33098ad0d3ff4e70adec0212e6665d6
 
 ## Tech Stack
 
 - [Angular](https://angular.io)
 - [TypeScript](https://www.typescriptlang.org)
 - [Tailwind CSS](https://tailwindcss.com)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 99016c95a33098ad0d3ff4e70adec0212e6665d6
 
 ## Development 💻
 
@@ -24,7 +35,7 @@ Steps to convert the portfolio into your own and deploy it
 1. Fork this repository:
 
 ```bash
-   https://github.com/shubham0809200/portfolio-angular.git
+   https://github.com/BelghithAdem/portfolio-angular.git
 ```
 
 2. Clone the forked repository:
@@ -49,11 +60,15 @@ Go to http://localhost:4200 to view the website.
 
 Now go to the directory `src > assets > data > data.json`. You will find a JSON file there. Make all the necessary changes according to your choice, and all data in the portfolio will automatically change.
 
+<<<<<<< HEAD
 It will return your hosting URL. Use it to see your website online and share.
 
 Hope you like it.
 <br/>
 #Peace ✌️
+=======
+---
+>>>>>>> 99016c95a33098ad0d3ff4e70adec0212e6665d6
 
 ---
 
